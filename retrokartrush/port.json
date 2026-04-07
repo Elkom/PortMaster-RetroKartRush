@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "name": "test.zip",
+  "items": [
+    "Retro Kart Rush.sh",
+    "retrokartrush"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Retro Kart Rush",
+    "porter": [
+      "Elkom"
+    ],
+    "desc": "test_desc",
+    "desc_md": "markdown description",
+    "inst": "Purchase game on Steam and transfer .pck file....",
+    "inst_md": "Purchase game on Steam and transfer .pck file....",
+    "genres": [
+      "arcade",
+      "racing",
+      "sports"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "frt_3.4.5.squashfs"
+    ],
+    "store": [],
+    "availability": "paid",
+    "reqs": [
+      "power"
+    ],
+    "arch": [
+      "armhf"
+    ],
+    "min_glibc": ""
+  }
+}

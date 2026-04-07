@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Retro Kart rush.sh</path>
+    <name>Retro Kart Rush</name>
+    <desc>Retro Kart Rush is a retro racing game that will transport you back to the 16-bit era. Where friendships were made (or broken) by playing multiplayer games in front of the TV.</desc>
+    <releasedate>20220310T000000</releasedate>
+    <developer>kurigamedev</developer>
+    <publisher>kurigamedev</publisher>
+    <genre>Racing</genre>
+    <!-- <image>./retrokartrush/cover.png</image> -->
+  </game>
+</gameList>
