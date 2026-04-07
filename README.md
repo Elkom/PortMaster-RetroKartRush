@@ -19,7 +19,7 @@ I've built a FRT binary of the same version as was the game built with and it's 
 
 The game can get up and running with both my runtime, and with the already available 3.4.5 runtime within PortMaster.
 
-# Instructions
+## Instructions
 To run this game you need to buy the official game through either Steam or Itch.io. Download and copy `RetroKartRush.pck` to the `gamedata` directory.
 
 ## Thanks
